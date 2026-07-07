@@ -1,0 +1,4 @@
+using this repo for the "api https://github.com/fawazahmed0/quran-api"
+api struckt
+https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/
+1{editionName}/{chapter}/{verse}.json
